@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jason Zhou, a software development engineer.
+- 👋 Hi, I’m Jason, a software development engineer.
 - 👀 I’m interested in back-end development and AI.
 - 🌱 I’m currently learning database and cloud computing.
 - 📫 Reach me through email: shzhouziyue@outlook.com
